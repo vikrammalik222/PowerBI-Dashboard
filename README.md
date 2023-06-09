@@ -27,12 +27,19 @@ STEP-3>
 Dashboard is created using several charts & Map mainly->
 
 1)funnel chart
+
 2)stacked bar chart
+
 3)doughnut chart
+
 4)pie chart
+
 5)line chart
+
 6)Map
+
 7)KPIs
+
 8)slicer
 
 
