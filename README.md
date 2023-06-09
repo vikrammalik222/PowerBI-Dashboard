@@ -2,12 +2,15 @@
 This is the project/report that i have made using the (global superstore.csv) dataset.
 
 Description-
+
 it is the dashboard /report which tells us about sales trends and profit corresponding to these  sales and gives insights about data based on different category and sub-category of products (furniture, office supplies,technology) such that which product sales are highest and  profit corresponding to it and vice versa. How these sales and profit varry from region to region or state to state,it also tells about the relation between profit and sales and how these are changing with years and months.these insights can be useful for descision making to grow sales and profit or can be used in buisness analytics. 
 
 STEP-1>
+
 i had loaded the dataset into the powerbi start transforming it
 
 step-2>
+
 i have performed various  data cleaning & processing  operation such as:
 1) removing duplicates
 2) removing null values
